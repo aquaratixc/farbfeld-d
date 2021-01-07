@@ -1,0 +1,5 @@
+name "farbfelded"
+description "Minimal reusable library for Farbfeld image format"
+authors "Oleg Bakharev"
+copyright "Copyright © 2021, Oleg Bakharev"
+license "ESL 1.0"
